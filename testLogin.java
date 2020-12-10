@@ -24,7 +24,7 @@ public class testLogin {
 		
 		driver.findElement(By.id("username")).sendKeys("faiysal96@gmail.com");
 		
-		driver.findElement(By.id("password")).sendKeys("F@iz8141");
+		driver.findElement(By.id("password")).sendKeys("welcome1");
 		
 		driver.findElement(By.className("_2tmy0")).click();
 		
